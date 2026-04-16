@@ -185,6 +185,11 @@ Model performance metrics include:
 - Customer segment characteristics and sizes
 - Recommendation coverage and diversity
 
+- <img width="1111" height="581" alt="Screenshot 2026-04-16 190939" src="https://github.com/user-attachments/assets/2a67ff4d-dd11-43a4-b63e-e7861e9da716" />
+<img width="1109" height="577" alt="Screenshot 2026-04-16 190930" src="https://github.com/user-attachments/assets/1ad8ba30-3aa5-48c7-9647-f2b06317eeea" />
+
+
+
 Detailed results are available in the `results/` directory with visualizations and analytics.
 
 ## 🤝 Contributing
